@@ -38,14 +38,12 @@ button:hover {
   margin: 0 auto;
 }
 
-.header {
-  margin-top: 56px;
-  margin-bottom: 84px;
-}
 .header__inner {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 56px;
+  margin-bottom: 84px;
 }
 .header__logo {
   margin-right: 513px;
@@ -70,12 +68,10 @@ button:hover {
   color: #000000;
 }
 
-.main {
-  margin-bottom: 190px;
-}
 .main__inner {
   display: flex;
   position: relative;
+  margin-bottom: 190px;
 }
 .main__bg-dots {
   position: absolute;
